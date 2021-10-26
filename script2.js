@@ -35,14 +35,4 @@ if(personalNewsDB.count < 10){
 
     console.log(personalNewsDB);
 
-
-
-
-
-
-
-
-
-
-
     
